@@ -1,0 +1,17 @@
+# Temp files
+tmpclaude-*
+*.tmp
+
+# Large binary files (optional - can include if needed)
+# *.docx
+# *.png
+
+# Node modules (if any)
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
