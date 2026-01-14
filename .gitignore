@@ -2,6 +2,9 @@
 tmpclaude-*
 *.tmp
 
+# MCP config (contains API tokens)
+.mcp.json
+
 # Source materials (local reference only)
 source-materials/
 
