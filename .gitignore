@@ -2,9 +2,13 @@
 tmpclaude-*
 *.tmp
 
-# Large binary files (optional - can include if needed)
-# *.docx
-# *.png
+# Source materials (local reference only)
+source-materials/
+
+# Working files
+*.docx
+*.zip
+notion-export/
 
 # Node modules (if any)
 node_modules/
